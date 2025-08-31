@@ -16,7 +16,7 @@ const Gallery: React.FC = () => {
                         aria-label="Image collage of couples"
                     >
                         <img
-                            src="https://media.discordapp.net/attachments/931126671250165783/1411078372536225952/image.png?ex=68b358a4&is=68b20724&hm=609ff20c81a84fce17b8e3c80bedee5b3e853f6c204355fd41734d82a10d340b&=&format=webp&quality=lossless"
+                            src="https://files.catbox.moe/59aee7.png"
                             alt="A collage of diverse couples sharing romantic and happy moments"
                             loading="lazy"
                             className="w-full h-full object-cover transform transition-transform duration-500 ease-in-out group-hover:scale-105"
